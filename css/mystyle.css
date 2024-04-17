@@ -1,0 +1,74 @@
+
+  body {
+    font-family: Verdana, Arial, sans-serif;
+    color:plum; /* Default font color */
+}
+
+.plum-text {
+    color: plum; /* Plum font color */
+}
+
+.verdana-font {
+    font-family: Verdana, Arial, sans-serif; /* Verdana font family */
+}
+p{
+  text-align: center;
+}
+iframe{
+  text-align: center;
+  margin: 0 auto
+}
+.centered {
+    text-align: center;
+}
+
+.left {
+    float: left;
+    margin-right: 20px;
+}
+
+.right {
+    float: right;
+    margin-left: 20px;
+}
+img {
+  border-radius: 50%;
+  text-align: center;
+  display: block; /* Make the image a block element */
+  margin: 0 auto; /* Auto margins horizontally (left and right)*/
+}
+
+  
+/* Apply styles to div elements */
+
+/* Div 1 */
+#div1 {
+    width: 300px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-size: 16px;
+}
+
+/* Div 2 */
+#div2 {
+    width: 200px;
+    height: 150px;
+    background-color: plum;
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+/* Div 3 */
+#div3 {
+    width: 250px;
+    padding: 15px;
+    background-color: #f0f0f0;
+    border: 2px solid rgb(219, 160, 221);
+    font-size: 18px;
+    margin-left: 50px;
+}
